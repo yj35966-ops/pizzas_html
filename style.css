@@ -1,0 +1,124 @@
+.t_align{
+    font-size: 80px;
+    color: red;
+    text-align: center;
+    text-shadow: 6px 6px 5px grey;
+    font-family: cursive;
+}
+.t_textsize{
+    font-size: 40px;
+    color: red;
+}
+.t_decor{
+    font-size: 70px;
+    color: red;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    font-family: cursive;
+}
+.t_marg{
+    font-size: 50px;
+    color: red;
+    ;
+}
+.img_mar{
+    width: 600px;
+}
+.img_veg{
+    width: 600px;
+}
+.t_veg{
+    font-size: 50px;
+    color: red;
+}
+.img_ch{
+    width: 600px;
+}
+.t_chi{
+    font-size: 50px;
+    color: red;
+}
+.t_pan{
+    font-size: 50px;
+    color: red;
+}
+.img_pan{
+    width: 600px;
+}
+.t_tik{
+    font-size: 50px;
+    color: red;
+}
+.img_tik{
+    width: 600px;
+}
+.t_home{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+.phone{
+    font-size: 30px;
+    color: red;
+}
+.mail{
+    font-size: 30px;
+    color: red;
+}
+.add{
+    font-size: 30px;
+    color: red;
+}
+.piz{
+    width: 1340px;
+    height: 500px;
+}
+.tag{
+    color: yellow;
+}
+.offer{
+    text-align: center;
+    font-size: 70px;
+    color: red;
+    text-shadow: 6px 6px 5px grey;
+    font-family: cursive;
+    text-decoration: underline;
+}
+.free{
+    font-size: 35px;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+}
+.wel{
+    text-align: center;
+    color: red;
+    font-size: 60px;
+    font-family: cursive;
+    text-shadow: 6px 6px 5px gray;
+}
+.media{
+    font-size: 60px;
+    text-align: center;
+    color: red;
+    font-family: cursive;
+}
+.cont{
+    font-size: 60px;
+    text-align: center;
+    color: red;
+    text-shadow: 6px 6px 5px gray;
+    font-family: cursive;
+}
+.about{
+    font-size: 60px;
+    text-align: center;
+    color: red;
+    text-shadow: 6px 6px 5px grey;
+    font-family: cursive;
+}
+.found{
+    font-size:35px ;
+    color: red;
+}
