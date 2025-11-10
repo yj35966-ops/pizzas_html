@@ -19,13 +19,14 @@
 .t_marg{
     font-size: 50px;
     color: red;
-    ;
 }
 .img_mar{
     width: 600px;
+    box-shadow: 6px 6px 5px red;
 }
 .img_veg{
     width: 600px;
+    box-shadow: 6px 6px 5px red;
 }
 .t_veg{
     font-size: 50px;
@@ -33,6 +34,7 @@
 }
 .img_ch{
     width: 600px;
+    box-shadow: 6px 6px 5px red;
 }
 .t_chi{
     font-size: 50px;
@@ -44,6 +46,7 @@
 }
 .img_pan{
     width: 600px;
+    box-shadow: 6px 6px 5px red;
 }
 .t_tik{
     font-size: 50px;
@@ -51,6 +54,7 @@
 }
 .img_tik{
     width: 600px;
+    box-shadow: 6px 6px 5px red;
 }
 .t_home{
     text-align: center;
