@@ -19,12 +19,22 @@
 .t_marg{
     font-size: 50px;
     color: red;
+    text-align: end;
 }
 .img_mar{
+    position: relative;
+    left: 670px;
+    border: 3px red;
+    margin: 10px;
+    padding: 20px;
     width: 600px;
     box-shadow: 6px 6px 5px red;
 }
 .img_veg{
+    position: relative;
+    border: 3px red;
+    margin: 10px;
+    padding: 20px;
     width: 600px;
     box-shadow: 6px 6px 5px red;
 }
@@ -33,26 +43,42 @@
     color: red;
 }
 .img_ch{
+    position: relative;
+    left: 670px;
+    border: 3px red;
+    margin: 10px;
+    padding: 20px;
     width: 600px;
     box-shadow: 6px 6px 5px red;
 }
 .t_chi{
     font-size: 50px;
     color: red;
+    text-align: end;
 }
 .t_pan{
     font-size: 50px;
     color: red;
 }
 .img_pan{
+    position: relative;
+    border: 3px red;
+    margin: 10px;
+    padding: 20px;
     width: 600px;
     box-shadow: 6px 6px 5px red;
 }
 .t_tik{
+    text-align: end;
     font-size: 50px;
     color: red;
 }
 .img_tik{
+    position: relative;
+    left: 670px;
+    border: 3px red;
+    margin: 10px;
+    padding: 20px;
     width: 600px;
     box-shadow: 6px 6px 5px red;
 }
@@ -74,6 +100,9 @@
     color: red;
 }
 .piz{
+    border: 5px red;
+    padding: 30px;
+    margin: 30px;
     width: 1340px;
     height: 500px;
 }
@@ -143,5 +172,10 @@
 }
 .s_decor{
     font-size: 30px;
+}
+.i_margin{
+    border: 5px red;
+    padding: 30px;
+    margin: 30px;
 }
 
