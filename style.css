@@ -56,6 +56,19 @@
     color: red;
     text-align: end;
 }
+.t_spicy{
+    font-size: 50px;
+    color: red;
+}
+.img_spicy{
+    position: relative;
+    border: 3px red;
+    margin: 10px;
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+    box-shadow: 6px 6px 5px red;
+}
 .t_pan{
     font-size: 50px;
     color: red;
@@ -103,7 +116,7 @@
     border: 5px red;
     padding: 30px;
     margin: 30px;
-    width: 1340px;
+    width: 1200px;
     height: 500px;
 }
 .tag{
@@ -183,3 +196,4 @@
     width: 800px;
     height: 600px;
 }
+
