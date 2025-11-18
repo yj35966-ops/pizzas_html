@@ -16,6 +16,14 @@
     text-shadow: 5px 5px 5px grey;
     font-family: cursive;
 }
+.insta_img{
+    width: 100px;
+    height: 100px;
+}
+.fb_img{
+    width: 100px;
+    height: 100px;
+}
 .t_marg{
     font-size: 50px;
     color: red;
@@ -189,18 +197,6 @@
 .f_align{
     text-align: center;
 }
-.h_decor{
-    font-size: 30px;
-}
-.m_decor{
-    font-size: 30px;
-}
-.a_decor{
-    font-size: 30px;
-}
-.c_decor{
-    font-size: 30px;
-}
 .s_decor{
     font-size: 30px;
 }
@@ -220,19 +216,25 @@
     font-size: 40px;
     
 }
-.home_trans:hover{
+.nav_items{
+    display: inline-block;
+    transform: translateY(25px);
+    animation: slideUp 0.9s ease forwards;
+    font-size: 30px;
     color: red;
+    
 }
-.about_trans:hover{
-    color: red;
+.nav_items:nth-child(1) { animation-delay: 0.1s; }
+.nav_items:nth-child(2) { animation-delay: 0.2s; }
+.nav_items:nth-child(3) { animation-delay: 0.3s; }
+.nav_items:nth-child(4) { animation-delay: 0.4s; }
+@keyframes slideUp {
+    from{transform: translateY(25px);}
+    to{transform: translateY(0);}
 }
-.contact_trans:hover{
-    color: red;
+.nav_items:hover {
+    transform: translateY(-3px);
+    transition: 0.3s;
 }
-.menu_trans:hover{
-    color: red;
-}
-.media_trans:hover{
-    color: red;
-}
+
 
